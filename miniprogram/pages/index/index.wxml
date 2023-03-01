@@ -1,0 +1,5 @@
+<view class="title">{{counterDisplay}}</view>
+<view class="updateTime">{{updateTimeDisplay}}</view>
+<button class="increase" bindtap="increaseCounter">计数加一</button>
+<button class="decrease" bindtap="decreaseCounter">计数减一</button>
+<button class="clear" bindtap="clearCounter">重置</button>

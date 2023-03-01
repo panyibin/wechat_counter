@@ -1,0 +1,33 @@
+/**index.wxss**/
+
+page {
+  padding-top: 54rpx;
+  background-color: #f6f6f6;
+  padding-bottom: 60rpx;
+}
+
+.title {
+  font-weight: 500;
+  color: #000000;
+  font-size: 150rpx;
+  /* margin-bottom: 40rpx; */
+  margin-top: 100px;
+  text-align: center;
+  /* background-color: blue; */
+}
+
+.updateTime {
+  text-align: center;
+}
+
+.increase {
+  margin-top: 250px;
+}
+
+.decrease {
+  margin-top: 20px;
+}
+
+.clear {
+  margin-top: 20px;
+}
